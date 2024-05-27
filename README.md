@@ -79,9 +79,6 @@ docker exec -ti robot_localization bash
 > [!NOTE]
 > The `robot_localization_ws` directory is shared between the host and container. In the result files inside of it might require sudo privileges to save any changes.
 
-> [!NOTE]
-> Dockerfile and script for running container are based on [Rafał Staszak's repository](https://github.com/RafalStaszak/NIMPRA_Docker/)
-
 ## 3. Running the simulation
 
 ### Workspace preparation
