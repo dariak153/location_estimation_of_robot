@@ -1,6 +1,6 @@
 # Robot localization with GTSAM
-Project for course "Artificial Intelligence in Robotics"
-
+Project for course "Artificial Intelligence in Robotics" 
+Project prepared with [@mmcza](https://www.github.com/mmcza).
 ## Table of Contents
 - [Robot localization with GTSAM](#robot-localization-with-gtsam)
   - [Table of Contents](#table-of-contents)
